@@ -1,0 +1,32 @@
+.container {
+  height: 300px;
+  width: 400px;
+  background-color: #ff1919;
+  border: 10px solid #226699;
+  position: absolute;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-family: Helvetica;
+  font-size: 7em;
+  position: relative;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
